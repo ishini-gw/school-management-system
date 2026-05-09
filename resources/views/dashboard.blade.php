@@ -14,4 +14,8 @@
             </div>
         </div>
     </div>
+
+    <div>
+        <livewire:dashboard.SchoolDashboard/>
+    </div>
 </x-app-layout>
